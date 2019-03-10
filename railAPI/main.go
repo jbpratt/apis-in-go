@@ -9,7 +9,7 @@ import (
 	"time"
 
 	restful "github.com/emicklei/go-restful"
-	"github.com/jbpratt78/apis/go-restful/dbutils"
+	"github.com/jbpratt78/apis/dbutils"
 	_ "github.com/mattn/go-sqlite3"
 )
 
